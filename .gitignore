@@ -1,6 +1,7 @@
 *.csv
 *.xlsx
 *.pdf
+*.docx
 *.h5
 .ipynb_checkpoints/
 ex/
